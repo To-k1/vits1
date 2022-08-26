@@ -1,0 +1,188 @@
+14
+00：24～00：30
+00：55～01：01
+01：04～01：11
+01：21～01：28
+01：40～01：44
+01：59～02：07
+02：33～02：40
+02：41～02：46
+13
+00：10～00：15
+00：20～00：27
+00：29～00：36
+00：37～00：45
+00：46～00：54
+00：57～01：05
+01：08～01：14
+01：15～01：16
+01：21～01：25
+01：28～01：38
+01：39～01：48
+01：49～01：56
+02：01～02：05
+02：10～02：16
+02：17～02：23
+12
+00.10~00.13
+00.43  00.47
+00.48  00.55
+01.12  01.15
+01.26  01.30
+01.31  01.35
+02.01  02.12
+02.25  02.33
+02.36  nya
+02.39  02.50
+02.58  03.02
+03.12  03.18
+03.22  03.32
+03.33  03.40
+03.41  03.45
+11
+00.33  00.39
+00.55  00.58
+01.20  01.24
+01.37  01.45
+02.18  02.24
+02.33  02.45
+02.58  03.03
+03.09  03.16
+03.17  03.26 
+03.27  03.32
+10
+00.18  00.22
+00.37  00.48
+ 00.50  00.56
+00.57  01.03
+01.07  01.12
+01.13  01.25
+01.48  01.58
+02.03  02.13
+02.18  02.20
+ 02.52  02.53
+02.58 03.06
+03.07  03.13
+9
+00.08  00.13
+00.17  00.26
+00.28  00.36
+00.44  00.46
+00.55  00.57
+00.58  01.08
+01.09  01.13
+01.14  01.18
+01.31  01.47
+01.47  01.49
+01.54  01.58
+02.00  02.10
+02.11  02.18
+02.19  02.23
+02.35  02.39
+02.53  02.55
+
+General
+Complete name                            : F:\shixi\CS\vits3\vits\wav\kizuna005.wav
+Format                                   : Wave
+File size                                : 218 KiB
+Duration                                 : 5 s 61 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 353 kb/s
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 5 s 61 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 352.8 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 218 KiB (100%)
+
+General
+Complete name                            : F:\shixi\CS\vits3\vits\wav\kizuna030.wav
+Format                                   : Wave
+File size                                : 195 KiB
+Duration                                 : 4 s 527 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 353 kb/s
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 4 s 527 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 352.8 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 195 KiB (100%)
+
+General
+Complete name                            : F:\shixi\CS\vits3\vits\wav\vo_na_m0210_0044.wav
+Format                                   : Wave
+File size                                : 157 KiB
+Duration                                 : 3 s 645 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 353 kb/s
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 3 s 645 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 352.8 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 157 KiB (100%)
+
+
+
+
+
+
+General
+Complete name                            : F:\shixi\CS\vits3\vits\wav\shioriko_28.wav
+Format                                   : Wave
+File size                                : 114 KiB
+Duration                                 : 1 s 320 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 706 kb/s
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 1 s 320 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 705.6 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 114 KiB (100%)
+
+General
+Complete name                            : F:\shixi\CS\vits3\vits\wav\shioriko_46.wav
+Format                                   : Wave
+File size                                : 410 KiB
+Duration                                 : 4 s 760 ms
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 706 kb/s
+
+Audio
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : 1
+Duration                                 : 4 s 760 ms
+Bit rate mode                            : Constant
+Bit rate                                 : 705.6 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 22.05 kHz
+Bit depth                                : 16 bits
+Stream size                              : 410 KiB (100%)
+
